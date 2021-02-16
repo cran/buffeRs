@@ -1,0 +1,14 @@
+d2ab5b14866c521768167c592b4aa3f0 *DESCRIPTION
+0e6d9c02e3fe74eb1e54dc622a88f6e6 *NAMESPACE
+1dd66d9bc96b3bdf384e5d83baa5b4d3 *R/buffer_circle.R
+ede4990f32582f0b805e897fd6f7189d *R/buffer_semicircle.R
+73707de31f4a6a61a69536ad1662297e *R/buffer_wedge.R
+4a948aab1b80b0d1187a9dbd47290e72 *R/buffer_windrose.R
+fa4ce3ea859906810cfa328194661637 *R/data.R
+e3045c7c082beee3cb391462ec17b3b3 *R/scaling_by_strength_smoothing.R
+7afc712c59770f0ea1a71be6ae4ffc11 *data/wind_sample.rda
+4c6eb244b703a2830ed174d219f3d8d5 *man/buffer_circle.Rd
+614baa068c40d6577bdfeda8234dfbab *man/buffer_semicircle.Rd
+48018c4d1dbb4475a17e3fffeafa86ac *man/buffer_wedge.Rd
+07843d417e7be957e54e8f81f46632fb *man/buffer_windrose.Rd
+f643e0f7acadb08b99afd1828c3b0ef2 *man/wind_sample.Rd
