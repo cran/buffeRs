@@ -1,7 +1,7 @@
-f88507b370b49ca9f9615222dfc34b3f *DESCRIPTION
+af9bd2020579f972a98b2e6eee0c7479 *DESCRIPTION
 2a1541ab7a627e3da10dedf2070d2ce5 *NAMESPACE
 1dd66d9bc96b3bdf384e5d83baa5b4d3 *R/buffer_circle.R
-e825bda4caa48c542304f0137ccd196d *R/buffer_rectangle.R
+0506ed5b3a4f775963f3eaa43b859883 *R/buffer_rectangle.R
 ede4990f32582f0b805e897fd6f7189d *R/buffer_semicircle.R
 ed48b86b30cfbb70f620ebb57e3f032a *R/buffer_square.R
 7182599cc645d2d1a98ce3392b1b35a1 *R/buffer_wedge.R
